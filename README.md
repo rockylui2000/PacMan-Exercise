@@ -2,7 +2,7 @@
  PacMan on the move
  
 Description of Project:
-This project allows user to creat one or more PacMan by clicking on certain buttons. The Pacman will start moving by another button is pressed.
+This project allows user to creat one or more PacMan by clicking on certain button. The Pacman will start moving by another button is pressed.
 
 How to Run:
 When button "make one" is pressed, a new PacMan is created.
