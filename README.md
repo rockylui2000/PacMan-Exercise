@@ -5,6 +5,7 @@ Description of Project:
 This project allows user to creat one or more PacMan by clicking on certain button. The Pacman will start moving by another button is pressed.
 
 How to Run:
+No software installation is needed.
 When button "make one" is pressed, a new PacMan is created.
 When button "game" is pressed.the Pacman will be moving randomly and can bounce off the wall of your browser. 
 
